@@ -45,7 +45,7 @@ UI: WinForms + кастомные темы
 Проект распространяется под лицензией MIT.  
   
 🤝 Контакты  
-Автор: kurayamivexyami  
+Автор: kurayamiwexyami  
 GitHub: https://github.com/kurayamiwexyami  
 Telegram: https://t.me/wexyami  
   

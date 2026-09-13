@@ -1,6 +1,8 @@
+<img width="1361" height="768" alt="craiyon_174848_text___CRYPTONIX__color_black__IP_symbol_instead_of_a_checkmark" src="https://github.com/user-attachments/assets/4deb7ade-4291-4e79-90fa-35ffb8bf609d" />  
+
 🔐 CRYPTONIX Network Scanner  
 Автоматизированный сканер IP-сетей с определением ОС и открытых портов  
-C# Windows Forms | .NET Framework | Async/Await  
+C# Windows Forms | .NET 8.0 | Async/Await  
 
 ---------------------------------------------------------------------------------
 
@@ -19,7 +21,7 @@ CRYPTONIX — это десктопное приложение для анали
 
 🛠️ Технологии  
 Язык: C#   
-Платформа: .NET Framework (Windows Forms)  
+Платформа: .NET 8.0 (Windows Forms)  
 Сетевые библиотеки: System.Net, System.Net.NetworkInformation, System.Net.Sockets  
 Асинхронность: async/await, Task, CancellationToken  
 UI: WinForms + кастомные темы  
@@ -31,18 +33,17 @@ UI: WinForms + кастомные темы
 🧪 Установка и запуск  
 --- Windows 7/10/11 ---  
 Скачай релиз с GitHub Releases  
-Запусти CRYPTONIX.exe  
-  
+Запусти CRYPTONIX-x64.exe  
+Запусти CRYPTONIX-x86.exe  
+
 --- Linux ---  
-(В РАЗРАБОТКЕ)  
-  
---- macOS ---  
 (В РАЗРАБОТКЕ)  
 
 ---------------------------------------------------------------------------------
 
 📄 Лицензия  
-Проект распространяется под лицензией MIT.  
+Проект распространяется под лицензией MIT. 
+Программа CRYPTONIX является абсолютно бесплатной!
   
 🤝 Контакты  
 Автор: kurayamiwexyami  
@@ -58,3 +59,4 @@ Telegram: https://t.me/wexyami
 □ Поддержка сканирования IPv6  
 □ График распределения портов  
 □ Уведомления о новых устройствах в сети  
+□ Реализовать под Linux

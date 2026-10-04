@@ -1,5 +1,3 @@
-<img width="1361" height="768" alt="craiyon_174848_text___CRYPTONIX__color_black__IP_symbol_instead_of_a_checkmark" src="https://github.com/user-attachments/assets/4deb7ade-4291-4e79-90fa-35ffb8bf609d" />  
-
 🔐 CRYPTONIX Network Scanner  
 Автоматизированный сканер IP-сетей с определением ОС и открытых портов  
 C# Windows Forms | .NET 8.0 | Async/Await  
